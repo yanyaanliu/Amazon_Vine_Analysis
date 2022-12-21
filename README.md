@@ -8,11 +8,11 @@ We also determined if there was any bias towards reviews from the Vine members.
 
 ## Results
 ![results](/image1.png)
-* How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there? </br>
 There were 33 Vine reviews and 45388 non-vine reviews 
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</br>
 15 Vine reviews were 5 stars and 23733 non-vine reviews were 5 stars
-* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</br>
 45% of the Vine (paid) reviews were 5 stars and 52% of the non-Viine reviews were 5 stars. 
 
 
